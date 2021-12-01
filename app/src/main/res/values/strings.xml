@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test03</string>
+    <string name="tvNameLastName">Burak PAMUK</string>
+    <string name="tvNo">201713709042</string>
+    <string name="rb_parents">Akraba</string>
+    <string name="rb_job">İş</string>
+    <string name="rb_friends">Arkadaş</string>
+    <string name="bttn_sms">SMS</string>
+    <string name="bttn_send" />
+    <string name="bttn_send1">Gönder</string>
+    <string name="empty" />
+</resources>
